@@ -2,7 +2,8 @@
 
 > **1인 창업자와 소규모 팀을 위한 업무·협업·재무 통합 AI SaaS**
 
-📱 iOS 배포 완료 · Google Play 심사 진행 중
+📱 iOS 베타 테스트 중 · Google Play 심사 진행 중
+🌐 홈페이지: [시그널크루.com](https://xn--2i0bs2de2jevkc6q.com)
 🌐 English version: [README.md](./README.md)
 
 ## 왜 만들었나

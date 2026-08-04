@@ -1,8 +1,11 @@
+<p align="center"><img src="docs/icon.png" width="120" alt="Signal Crew"></p>
+
 # Signal Crew
 
 > **One dashboard for everything that keeps a small team alive — work, goals, communication, and finance — orchestrated by AI agents.**
 
-📱 **Status:** iOS — released · Google Play — in review
+📱 **Status:** iOS — beta testing (TestFlight)
+🌐 **Homepage:** [시그널크루.com](https://xn--2i0bs2de2jevkc6q.com)
 🇰🇷 한국어 요약은 [README.ko.md](./README.ko.md)를 참고하세요.
 
 ---
@@ -59,7 +62,7 @@ An AI-native SaaS and mobile app that unifies work, collaboration, and finance i
 | Layer | Technology |
 |---|---|
 | AI | LLM-based agents, prompt-engineered workflows <!-- TODO: specify models/APIs --> |
-| App | Mobile (iOS released, Android in review) <!-- TODO: framework --> |
+| App | Mobile — iOS beta via TestFlight <!-- TODO: framework --> |
 | Backend | <!-- TODO: e.g. Firebase / Supabase --> |
 | Analytics | GA4, GTM (event & funnel instrumentation) |
 | Dev workflow | Google AI Studio → Antigravity / Claude Code → Codex review & testing |
@@ -74,11 +77,11 @@ An AI-native SaaS and mobile app that unifies work, collaboration, and finance i
 
 Founder / Product Builder — end to end:
 
-problem discovery → target user & core value definition → integrated dashboard design → UI/UX → AI feature direction → GA4/GTM measurement design → App Store / Google Play release.
+problem discovery → target user & core value definition → integrated dashboard design → UI/UX → AI feature direction → GA4/GTM measurement design → TestFlight beta release.
 
 ## Future
 
-- [ ] Google Play release
+- [ ] App Store / Google Play public release
 - [ ] Deeper AI agent orchestration (multi-agent workflows via MCP)
 - [ ] Local LLM (sLLM) options for privacy-sensitive financial data
 - [ ] Team collaboration features expansion
