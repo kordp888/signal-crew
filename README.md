@@ -90,4 +90,4 @@ problem discovery → target user & core value definition → integrated dashboa
 
 **Note:** This repository contains the public documentation and architecture of Signal Crew. API keys, secrets, database schemas, and customer data are not included.
 
-*Built by [Derrick Hwang](https://github.com/kordp888) — AI Native Product Builder. Why comes first. Building comes next.*
+*Built by [Derrick Hwang](https://github.com/kordp888) — AI Native Product Manager. Why comes first. Building comes next.*
